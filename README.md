@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 模拟竞技
 
 这是一个基于 `React + TypeScript + Vite + Zustand` 的模拟竞技原型项目，当前重点是单人模式、键鼠协同、本地排行榜与复盘体验。
@@ -28,3 +29,7 @@ npm run dev
 npm run build
 npm run lint
 ```
+=======
+# SimulatedAthletics
+从简单的跟随数字点点点的操作开始模拟竞技游戏
+>>>>>>> 03c2d37322afa34f6fdbcd6863a49dcf6a3a7565
